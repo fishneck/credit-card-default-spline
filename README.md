@@ -1,5 +1,6 @@
 # credit-card-default-spline
-coding of the spline part for final project of Statistical Learning(2018 Autumn) at NTHU
+coding for final project of Statistical Learning(2018 Autumn) at NTHU
+Each file indicates the “What it does-Author”
 
 This is only for the use of abbreviating the hand-in report.
 You have to download the dataset elsewhere...
