@@ -14,7 +14,7 @@ summary(creditcard)
 summary(creditcard[which(creditcard[,25]==1),])
 
 ###splitting####
-set.seed(5)
+set.seed(22)
 index = sample(1:nrow(creditcard),ceiling(0.8*nrow(creditcard)))
 train = creditcard[index,]
 test = creditcard[-index,]
